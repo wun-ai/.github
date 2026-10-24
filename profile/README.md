@@ -30,6 +30,7 @@ flowchart TD
 
     subgraph Solutions["Industry Operating Systems & Products"]
         AEOD["AEO Director\nGoverned Optimization & Delivery"]
+        Shortcake["Shortcake\nGoverned Static-Site Vibe-Coding"]
         DonorOps["DonorOps\nNon-Profit & Donor Operations"]
         Health["Healthcare Ops\nClinical Workflows"]
     end
@@ -63,11 +64,12 @@ A lightweight interop control plane that enables workflows and autonomous agents
 
 ## Ecosystem Repositories
 
-| Repository | Role | Status |
+| Repository / Product | Role | Source / Status |
 |---|---|---|
-| [**`hypha`**](https://github.com/wun-ai/hypha) | Lightweight interoperability control plane for agentic workflows | Active |
-| [**`wun-ecosystem`**](https://github.com/wun-ai/wun-ecosystem) | Version-controlled OKF v0.2 knowledge base, research records, and ADRs | Active |
-| [**`.github`**](https://github.com/wun-ai/.github) | Organization profile, community health standards, and shared workflows | Public |
+| [**`hypha`**](https://github.com/wun-ai/hypha) | Lightweight interoperability control plane for agentic workflows | GitHub (Active) |
+| [**`wun-ecosystem`**](https://github.com/wun-ai/wun-ecosystem) | Version-controlled OKF v0.2 knowledge base, research records, and ADRs | GitHub (Active) |
+| [**`shortcake`**](https://getshortcake.com) | Governed static-site vibe-coding control plane & FastMCP server | GitLab / Netlify (Active) |
+| [**`.github`**](https://github.com/wun-ai/.github) | Organization profile, community health standards, and shared workflows | GitHub (Public) |
 
 ---
 
