@@ -68,6 +68,7 @@ A lightweight interop control plane that enables workflows and autonomous agents
 |---|---|---|
 | [**`hypha`**](https://github.com/wun-ai/hypha) | Lightweight interoperability control plane for agentic workflows | GitHub (Active) |
 | [**`wun-ecosystem`**](https://github.com/wun-ai/wun-ecosystem) | Version-controlled OKF v0.2 knowledge base, research records, and ADRs | GitHub (Active) |
+| [**`donorops`**](https://gitlab.com/violetek/donorops) | Governed donor-operations operating system & clean-room V2 platform | GitLab (Active) |
 | [**`shortcake`**](https://getshortcake.com) | Governed static-site vibe-coding control plane & FastMCP server | GitLab / Netlify (Active) |
 | [**`.github`**](https://github.com/wun-ai/.github) | Organization profile, community health standards, and shared workflows | GitHub (Public) |
 
